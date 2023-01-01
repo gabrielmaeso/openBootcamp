@@ -1,0 +1,12 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto de node",
+  "main": "index.js",
+  "scripts": {
+    "primerscript": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabriel maeso",
+  "license": "ISC"
+}
